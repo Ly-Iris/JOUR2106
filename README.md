@@ -2,7 +2,7 @@
 
 Dagui Weight of QIN Dynasty
 
-##Introduction
+## Introduction
 
 This is a bronze weight called Dagui which was made in Qin Dynasty. Now it is
 collected in Nanjing museum. As the name implies, it is used to weigh, and Dagui is a
