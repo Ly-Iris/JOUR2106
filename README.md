@@ -14,5 +14,4 @@ edict to regulate the measurement system of length, volumes and weights througho
 the empire.
 
 ![](https://amuseum.cdstm.cn/AMuseum/ancient/images/ware/heng/05_101.jpg)
-
 This is the picture
