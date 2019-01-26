@@ -2,7 +2,7 @@
 
 Dagui Weight of QIN Dynasty
 
-*Introduction
+Introduction
 
 This is a bronze weight called Dagui which was made in Qin Dynasty. Now it is
 collected in Nanjing museum. As the name implies, it is used to weigh, and Dagui is a
@@ -13,4 +13,6 @@ the first emperor of Qin Dynasty, annexed his opponent states in 221 BC, he issu
 edict to regulate the measurement system of length, volumes and weights throughout
 the empire.
 
-This is the pic:![](https://amuseum.cdstm.cn/AMuseum/ancient/images/ware/heng/05_101.jpg)
+![](https://amuseum.cdstm.cn/AMuseum/ancient/images/ware/heng/05_101.jpg)
+
+This is the picture
