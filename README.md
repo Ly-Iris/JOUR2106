@@ -1,10 +1,9 @@
 # IT'S ME
 
 ## Identity information
+* Name: LI YUN (just call me Iris😊)
 
-*Name: LI YUN (just call me Iris😊)
+* Gender: F
 
-*Gender: F
-
-*Depertment: year1 of COMM
+* Depertment: year1 of COMM
 
