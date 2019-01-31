@@ -1,6 +1,5 @@
 # IT'S ME                                        
 ![](https://github.com/Ly-Iris/JOUR2106/blob/master/IMG_0438.png)
-
 ## Identity Information
 * Name: LI YUN (just call me Iris😊)
 * Gender: F
