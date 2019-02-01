@@ -17,4 +17,11 @@
 ##  Sharing
 Some films shown recently are worth to watch!
 * Green book
+
 ![](https://m.media-amazon.com/images/M/MV5BMjMyNzExNzQ5OV5BMl5BanBnXkFtZTgwNjM2MjIxNjM@._V1_UX182_CR0,0,182,268_AL_.jpg)
+* Instant family
+
+![](https://pic.pimg.tw/kevinhearst/1547346243-4063161233_n.jpg)
+* BOHEMIAN RHAPSODY
+
+![](https://www.cinema.com.hk/cmsimg/cinweb/movie/movie_1536063765.jpg)
