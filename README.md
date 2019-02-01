@@ -21,10 +21,13 @@ Some films shown recently are worth to watch!
 ![](https://m.media-amazon.com/images/M/MV5BMjMyNzExNzQ5OV5BMl5BanBnXkFtZTgwNjM2MjIxNjM@._V1_UX182_CR0,0,182,268_AL_.jpg)
 * Instant family
 
-![](https://pic.pimg.tw/kevinhearst/1547346243-4063161233_n.jpg)
+![](https://github.com/Ly-Iris/JOUR2106/blob/master/P_HO00006212.jpg)
 * BOHEMIAN rhapsody
 
 ![](https://www.cinema.com.hk/cmsimg/cinweb/movie/movie_1536063765.jpg)
 * How to train your dragon 3
 
 ![](https://upload.wikimedia.org/wikipedia/en/f/fd/How_to_Train_Your_Dragon_3_poster.png)
+* Second act
+
+![](https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Second_Act.png/220px-Second_Act.png)
