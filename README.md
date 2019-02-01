@@ -22,6 +22,9 @@ Some films shown recently are worth to watch!
 * Instant family
 
 ![](https://pic.pimg.tw/kevinhearst/1547346243-4063161233_n.jpg)
-* BOHEMIAN RHAPSODY
+* BOHEMIAN rhapsody
 
 ![](https://www.cinema.com.hk/cmsimg/cinweb/movie/movie_1536063765.jpg)
+* How to train your dragon 3
+
+![](https://upload.wikimedia.org/wikipedia/en/f/fd/How_to_Train_Your_Dragon_3_poster.png)
